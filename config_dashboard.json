@@ -1,0 +1,24 @@
+{
+  "year_mode": "latest_year_only",
+  "thresholds": {
+    "sales_bad_pct": -0.15,
+    "sales_warn_pct": -0.05,
+    "sales_bad_abs": 30,
+    "sales_warn_abs": 10,
+    "assist_bad_pct": -0.15,
+    "assist_warn_pct": -0.1,
+    "assist_bad_abs": 10,
+    "assist_warn_abs": 5
+  },
+  "gare_pdv": [
+    {
+      "title": "Incentivo Family Base · 15 aprile - 4 maggio 2026",
+      "items": [
+        "Con 15 apparati Family Base venduti nel periodo: 15 € per ogni primo apparato venduto e 15 € per ogni Twin venduto dal 15 aprile.",
+        "Se superi 30 apparati Family Base nel periodo: premio EXTRA di 1.000 €.",
+        "Periodo valido: dal 15 aprile al 4 maggio 2026."
+      ]
+    }
+  ],
+  "gare_agenti": []
+}

@@ -1,0 +1,40 @@
+name: Aggiorna dashboard Telepass ENI
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'input/**'
+      - 'FILE_UTILI/**'
+      - 'config_dashboard.json'
+      - 'template_dashboard.html'
+      - 'aggiorna_dashboard.py'
+      - 'build_github.py'
+      - '.github/workflows/aggiorna-dashboard.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Scarica repository
+        uses: actions/checkout@v4
+
+      - name: Prepara Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa librerie
+        run: pip install -r requirements.txt
+
+      - name: Genera dashboard
+        run: python build_github.py
+
+      - name: Salva output nel repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Aggiorna dashboard automatica
+          file_pattern: docs/* docs/files/*
