@@ -1,0 +1,23 @@
+FILE REPORT TROVATI E USATI
+==========================
+2026/W01 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 1.xlsx
+2026/W02 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 2.xlsx
+2026/W03 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 3.xlsx
+2026/W04 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 4.xlsx
+2026/W05 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 5.xlsx
+2026/W06 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 6.xlsx
+2026/W07 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 7.xlsx
+2026/W08 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 8.xlsx
+2026/W09 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 9.xlsx
+2026/W10 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 10.xlsx
+2026/W11 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 11.xlsx
+2026/W12 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 12.xlsx
+2026/W13 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 13.xlsx
+2026/W14 -> /home/runner/work/telepass-eni-report-nd48kq-2026-interno/telepass-eni-report-nd48kq-2026-interno/input/report_settimanali/SETTIMANA 14.xlsx
+
+SETTIMANE MANCANTI
+==================
+Nessuna settimana mancante nel blocco usato.
+
+FILE SCARTATI
+============
